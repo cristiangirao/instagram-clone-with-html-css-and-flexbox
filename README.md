@@ -1,4 +1,4 @@
-#Instagram Clone
+# Instagram Clone
 
 Projeto desenvolvido durante o Bootcamp HTML Web Developer oferecido pela [Digital Innovation One](https://web.digitalinnovation.one/).
 
